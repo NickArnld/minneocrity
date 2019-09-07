@@ -1,0 +1,17 @@
+.navbar{
+    background-color: rgb(197, 207, 226);
+    border-width: 2px 0px;
+    border-style: solid;
+    border-color: rgb(109, 109, 109);
+    height: 60px;
+}
+.navLink{
+    margin: 20px;
+    font-weight: 550;
+    font-size: 150%;
+    color: rgb(223, 97, 97);
+}
+.navLink:hover{
+    text-decoration: none;
+    color: black;
+}

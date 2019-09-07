@@ -1,0 +1,16 @@
+.jumbotron{
+    margin-bottom: 0px;
+    text-align: center;
+    height: 300px;
+    background-image: url('../../images/snow-9ioa.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0% 65%;
+}
+.banTitle{
+    color: rgb(238, 104, 104);
+    text-shadow: 3px 3px #535353;
+    padding-top: 75px;
+    font-size: 400%
+    
+}
